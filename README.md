@@ -1,7 +1,7 @@
 # salary_calculator
 Salary Counting App
 ![screenshot](assets/ss_salary_app.png)
-Simple BMI calculator  app example with splash screen, value insert part  and result page
+Simple salary calculator  app example 
 
 ## Getting Started
 
